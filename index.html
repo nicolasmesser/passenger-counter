@@ -6,13 +6,11 @@
     </head>
     <body>
       <div class="container mx-auto p-4">
-        <h1 class="text-3xl font-bold underline">
-          Hello world!
-        </h1>
-        <h1>People entered:</h1>
-        <h2 id="count-el">0</h2>
-        <button id="increment-btn" onclick="increment()">Increment</button>
-        <button id="save-btn" onclick="save()">Save</button>
+        <h1 class="text-3xl font-bold">Passenger Counter</h1>
+        <p>People entered:</p>
+        <p class="text-8xl" id="count-el">0</p>
+        <button class="border rounded p-2 bg-slate-300" id="increment-btn" onclick="increment()">Increment</button>
+        <button class="border rounded p-2 bg-slate-300" id="save-btn" onclick="save()">Save</button>
         <p id="save-el">Previous entries:</p>
         <script src="./src/js/index.js"></script>
       </div>
