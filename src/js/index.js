@@ -25,3 +25,7 @@ function save() {
   count = 0;
   countEl.textContent = count;
 }
+
+function reset() {
+  saveEl.textContent = "";
+}

@@ -6,3 +6,7 @@ body {
   background-image: url("../img/station.jpg");
   background-size: cover;
 }
+
+button {
+  margin: 0 5px;
+}
