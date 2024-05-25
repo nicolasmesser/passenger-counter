@@ -3,3 +3,6 @@ This is my implementation of the Scrimba Frontend Path Passenger Counter App. Vi
 
 ### Preview
 ![Screenshot of the Passenger Counter Application.](https://github.com/nicolasmesser/passenger-counter/blob/main/src/img/passengerCounterScreenshot.png)
+
+### Technologies & Tools
+HTML, CSS (including TailwindCSS), JavaScript
